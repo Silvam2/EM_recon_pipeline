@@ -1,0 +1,59 @@
+### Scope identifier
+
+jrc_zf-pancreas-1
+
+### Scope host
+
+jeiss3.hhmi.org
+
+### Root directory path of the dat image files on the scope
+
+/cygdrive/e/Images/Zebrafish
+
+### Scope first dat name
+
+Merlin-6257_25-05-27_190505_0-0-0.dat
+
+### Scope last dat name
+
+_No response_
+
+### Number of columns of images in each z layer
+
+1
+
+### Number of rows of images in each z layer
+
+1
+
+### XY nanometers per pixel
+
+8
+
+### Z nanometers per pixel
+
+8
+
+### Group that will pay for data storage
+
+cellmap
+
+### Group that will pay for compute cluster time
+
+cellmap
+
+### Researcher names
+
+Aubrey Weigel, Isabel
+
+### Estimated dat file count
+
+5000
+
+### Generate preview volumes while imaging is in progress?
+
+Yes
+
+### Other notes
+
+_No response_
